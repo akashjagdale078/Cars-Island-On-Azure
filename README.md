@@ -4,7 +4,6 @@
 
 *- Some of the concepts were simplified to make it possible to deliver complete solution*
 
-*- On my [tech blog](https://daniel-krzyczkowski.github.io/Cars-Island-Car-Rental-On-Azure-Cloud/) there is a series of articles where I described implementation details*
 
 ![CarsIsland0.jpg](images/CarsIsland0.jpg)
 
@@ -132,10 +131,10 @@ Azure API Management is a service that works as a gateway to different APIs behi
 
 In the *src* folder there are five sub-folders:
 
-1. *[ad-b2c-custom-policies](https://github.com/Daniel-Krzyczkowski/Cars-Island-On-Azure/tree/master/src/ad-b2c-custom-policies)* - this one contains Azure AD B2C custom policies files together with branding files
-2. *[arm-templates](https://github.com/Daniel-Krzyczkowski/Cars-Island-On-Azure/tree/master/src/arm-templates)* - this one contains Azure Resource Manager templates to create all required Azure services
-3. *[func-app](https://github.com/Daniel-Krzyczkowski/Cars-Island-On-Azure/tree/master/src/func-app)* - this one contains source code of the Function App responsible for sending email confirmations when car is reserved
-4. *[web-api](https://github.com/Daniel-Krzyczkowski/Cars-Island-On-Azure/tree/master/src/web-api)* - this one contains ASP .NET Core Web API project
-5. *[web-app](https://github.com/Daniel-Krzyczkowski/Cars-Island-On-Azure/tree/master/src/web-app)* - this one contains Blazor Web App project
-6. *[send-grid-mail-template](https://github.com/Daniel-Krzyczkowski/Cars-Island-On-Azure/tree/master/src/send-grid-mail-template)* - this one contains SendGrid email template for car reservation confirmation
+1. *[ad-b2c-custom-policies](https://github.com/akashjagdale078/Cars-Island-On-Azure/tree/master/src/ad-b2c-custom-policies)* - this one contains Azure AD B2C custom policies files together with branding files
+2. *[arm-templates](https://github.com/akashjagdale078/Cars-Island-On-Azure/tree/master/src/arm-templates)* - this one contains Azure Resource Manager templates to create all required Azure services
+3. *[func-app](https://github.com/akashjagdale078/Cars-Island-On-Azure/tree/master/src/func-app)* - this one contains source code of the Function App responsible for sending email confirmations when car is reserved
+4. *[web-api](https://github.com/akashjagdale078/Cars-Island-On-Azure/tree/master/src/web-api)* - this one contains ASP .NET Core Web API project
+5. *[web-app](https://github.com/akashjagdale078/Cars-Island-On-Azure/tree/master/src/web-app)* - this one contains Blazor Web App project
+6. *[send-grid-mail-template](https://github.com/akashjagdale078/Cars-Island-On-Azure/tree/master/src/send-grid-mail-template)* - this one contains SendGrid email template for car reservation confirmation
 
